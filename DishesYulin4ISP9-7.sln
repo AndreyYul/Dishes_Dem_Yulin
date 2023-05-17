@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishesYulin4ISP9-7", "DishesYulin4ISP9-7.csproj", "{4D07D918-4DAE-4430-87F8-DAF2F1311927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D07D918-4DAE-4430-87F8-DAF2F1311927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D07D918-4DAE-4430-87F8-DAF2F1311927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D07D918-4DAE-4430-87F8-DAF2F1311927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D07D918-4DAE-4430-87F8-DAF2F1311927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74AC2A97-4D83-475C-9BE9-D08C7855FB44}
+	EndGlobalSection
+EndGlobal
